@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+._*
+
+# Downloaded PDF files
+# ocp-pdf-downloads/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+
